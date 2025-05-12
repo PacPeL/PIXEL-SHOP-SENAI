@@ -1,0 +1,267 @@
+{
+    "id": "gameGear-01",
+    "titulo": "Game Gear 01",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-02",
+    "titulo": "Game Gear 02",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-03",
+    "titulo": "Game Gear 03",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-04",
+    "titulo": "Game Gear 04",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-05",
+    "titulo": "Game Gear 05",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-06",
+    "titulo": "Game Gear 06",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-07",
+    "titulo": "Game Gear 07",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+{
+    "id": "gameGear-08",
+    "titulo": "Game Gear 08",
+    "imagen": "./IMG/4/",
+    "categoria": {
+    "nombres": "Game Gear",
+    "id": "gameGear"
+   },
+   "precio": 1000 
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "consola-01",
+    "titulo": "Consola 01",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-02",
+    "titulo": "Consola 02",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-03",
+    "titulo": "Consola 03",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-04",
+    "titulo": "Consola 04",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-05",
+    "titulo": "Consola 05",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-06",
+    "titulo": "Consola 06",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-07",
+    "titulo": "Consola 07",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+{
+    "id": "consola-08",
+    "titulo": "Consola 08",
+    "imagen": "./IMG/5/",
+    "categoria": {
+    "nombres": "Consola",
+    "id": "consola"
+   },
+   "precio": 1000 
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "retroGaming-01",
+    "titulo": "Retro Gaming 01",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-02",
+    "titulo": "Retro Gaming 02",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-03",
+    "titulo": "Retro Gaming 03",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-04",
+    "titulo": "Retro Gaming 04",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-05",
+    "titulo": "Retro Gaming 05",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-06",
+    "titulo": "Retro Gaming 06",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-07",
+    "titulo": "Retro Gaming 07",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+},
+{
+    "id": "retroGaming-08",
+    "titulo": "Retro Gaming 08",
+    "imagen": "./IMG/9/",
+    "categoria": {
+    "nombres": "Retro Gaming",
+    "id": "retroGaming"
+   },
+   "precio": 1000 
+}
+
+
+colocar box shadows en css

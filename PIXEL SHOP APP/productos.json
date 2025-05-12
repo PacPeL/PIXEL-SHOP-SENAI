@@ -1,0 +1,76 @@
+[
+{
+    "id": "phone-01",
+    "titulo": "Xiaomi 14T Ai 5G (512GB+12GB)",
+    "imagen": "/IMG/1/Xiaomi 14T Ai 5G (512GB+12GB).jpg",
+    "categoria": {
+    "nombre": "Smartphone y tablets",
+    "id": "1"
+   },
+   "precio": 749 
+},
+{
+    "id": "phone-02",
+    "titulo": "Xiaomi 14T Pro Ai 5G (512GB+12GB)",
+    "imagen": "/IMG/1/Xiaomi 14T Pro Ai 5G (512GB+12GB).jpg",
+    "categoria": {
+    "nombre": "Smartphone y tablets",
+    "id": "2"
+   },
+   "precio": 849 
+},
+{
+    "id": "phone-03",
+    "titulo": "Samsung Galaxy Tab A9+",
+    "imagen": "/IMG/1/Samsung Galaxy Tab A9+.jpg",
+    "categoria": {
+    "nombre": "Smartphone y tablets",
+    "id": "1"
+   },
+   "precio": 229
+},
+
+
+
+
+
+
+
+
+{
+    "id": "pc-01",
+    "titulo": "Lenovo IdeaPad 1 15.6",
+    "imagen": "/IMG/2/Lenovo IdeaPad 1 15.6.jpg",
+    "categoria": {
+    "nombre": "Computadoras y laptops",
+    "id": "2"
+   },
+   "precio": 429
+},
+
+
+
+
+
+
+
+{
+    "id": "accesorio-01",
+    "titulo": "Logitech G203 RGB",
+    "imagen": "/IMG/3/Logitech G203 RGB.jpg",
+    "categoria": {
+    "nombre": "Accesorios para PC",
+    "id": "3"
+   },
+   "precio": 39
+}
+
+
+
+
+
+
+
+
+
+]
